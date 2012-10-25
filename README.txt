@@ -8,7 +8,7 @@ author:shizuru123 shizuru123@inter7.jp
 
 How To Use
 
-index.js copy to project folder and index.html import
+utility.js copy to project folder and index.html import
 
 function List
 
@@ -29,7 +29,7 @@ Utility.js v:0.1.1
 
 使い方
 
-index.jsをコードのフォルダーにコピーしてindex.htmlでインポートしてください。
+utility.jsをコードのフォルダーにコピーしてindex.htmlでインポートしてください。
 
 機能
 
